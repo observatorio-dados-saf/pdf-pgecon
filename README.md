@@ -14,4 +14,4 @@ pip install pdfplumber
 
 #### Observações
 
-< "explicit_vertical_lines": [-distância de pixels até o y-]
+> "explicit_vertical_lines": [-distância de pixels até o y-]
